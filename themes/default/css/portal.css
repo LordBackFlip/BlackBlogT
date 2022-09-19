@@ -1,0 +1,77 @@
+#mi #perfil-form .frameForm{background:#fff}
+#mi #news-content,#mi #destacados-content,#mi #populares-content,#mi #publico-content,#mi #pin-content{margin:18px 18px 0}
+#mi #ajuFull center,#mi .vContent{border:0 solid #ddd}
+#mi #ajuFull{width:594px}
+#selec{float:right;margin:18px 18px 18px 0;width:614px;height:44px;border:1px solid #dcdcdc;border-top-color:#e2e2e2;border-radius:4px;border-bottom-color:#C3C3C3;box-shadow:0 1px 0 rgba(0,0,0,.07);background-image:linear-gradient(bottom,#e9e9e9 8%,#fff 95%);background-image:-o-linear-gradient(bottom,#e9e9e9 8%,#fff 95%);background-image:-moz-linear-gradient(bottom,#e9e9e9 8%,#fff 95%);background-image:-webkit-linear-gradient(bottom,#e9e9e9 8%,#fff 95%);background-image:-ms-linear-gradient(bottom,#e9e9e9 8%,#fff 95%);background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0.08,#e9e9e9),color-stop(0.95,#fff))}
+.boline{float:left;border-right:1px solid #d3d3d3;position:relative}
+.boline a{padding:13px 15px;display:block;color:#555;font-weight:400;text-align:center;text-shadow:0 1px 0 #fff;text-decoration:none}
+.boline a:hover{color:#000}
+.activo{box-shadow:inset 0 1px 4px #222;-webkit-box-shadow:inset 0 0 69px -1px rgba(0,0,0,0.75);-moz-box-shadow:inset 0 0 69px -1px rgba(0,0,0,0.75);box-shadow:inset 0 0 69px -1px rgba(0,0,0,0.75);background-color:#6d6e70;margin:-1px 0 0 -1px;padding:0 1px 2px 0}
+.activo:first-child{border-radius:3px 0 0 3px}
+.activo a{text-decoration:none;text-shadow:0 1px 1px rgba(0,0,0,0.57);color:#fff;font-weight:400}
+.activo a:hover{color:#fff}
+#tamaTipo{width:115px;text-align:center}
+#tamaFecha{width:140px;border-right:1px;text-align:center}
+#tamaTipo span,#tamaFecha span{display:inline-block}
+span.puti{border-left:4px solid transparent;border-right:4px solid transparent;border-top:4px solid #666;content:"";margin:7px 0 7px 6px;height:0;vertical-align:top;width:0}
+.boline a:hover .puti{border-top:4px solid #000}
+.activo a span.puti,.activo a:hover span.puti{border-top:4px solid #fff}
+#tmenu{position:absolute;z-index:1;width:100%;top:44px;display:none}
+.tiup{background:url(../i/tailup.png) no-repeat top center;display:block!important;width:100%;height:7px;position:relative;z-index:1;top:1px}
+.todmi{background-color:#fff;border:1px solid #ccc;border-radius:3px;padding:10px 0;box-shadow:0 2px 10px rgba(0,0,0,0.2)!important}
+.todmi a{color:#000;text-shadow:none;font-size:11px;padding:6px 0}
+.todmi a:hover{background-color:#0081c2;background-image:linear-gradient(to bottom,#08c,#0077b3);font-weight:700;color:#fff}
+.todmi a.acti{font-weight:700;color:#fff;background-color:#0081c2;background-image:linear-gradient(to bottom,#08c,#0077b3)}
+#tamaTipo:hover #tmenu{display:block}
+#tamaFecha:hover #tmenu{display:block}
+.lefsho img{float:left;margin-top:2px}
+#bodypost{overflow:hidden;clear:both}
+#bodypost a{line-height:18px;margin:0 0 5px;font-size:15px;clear:both;display:block}
+#bodypost p{color:#777;width:100%;margin:0;word-wrap:break-word}
+.boxreco{overflow:hidden;clear:both}
+.zebrea{overflow:hidden;clear:both;border-top:#e0e0e0 1px solid;background:#f5f5f5;padding:5px}
+.zebrea:nth-child(2n+1){border-top:#FFF 1px solid;background:#FFF}
+a.sipo{float:left;margin-right:5px;width:32px;height:32px}
+a.sipo img{width:32px;height:32px}
+.dareco{float:left;width:100px}
+.dareco a{display:block;clear:both;line-height:1;padding:1px 0}
+.dareco span{display:block;color:#666;font-size:11px}
+.htags{padding:6px;border-bottom:1px dotted #ccc;overflow:hidden;clear:both}
+.htags:hover{background:#f1f1f1}
+.htags:hover .opctag{display:block}
+.htags a{float:left}
+.opctag{display:none}
+.opctag span{cursor:pointer}
+.mas{background:url(../i/add.png) center no-repeat;display:block;width:10px;height:10px;float:right;margin:4px 0 4px 4px}
+.mas:hover,.pin:hover{opacity:.6}
+.fijoi{float:right;background-color:#fff;padding:1px 0 1px 10px}
+.fijoi span.pin{margin:0}
+.close{background:url(../i/close.png) center no-repeat;width:18px;height:18px;display:block}
+.close:hover{opacity:.8}
+.fomupin{clear:both;margin-top:12px}
+.fomupin textarea{border-right:solid 1px #c6c6c6;border-left:solid 1px #c6c6c6;border-top:solid 1px #cecece;border-bottom:solid 1px #a4a4a4;padding:5px 8px;font-size:13px;box-shadow:0 1px 1px #d3d3d3;-mox-box-shadow:0 1px 1px #d3d3d3;-webkit-box-shadow:0 1px 1px #d3d3d3;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;width:200px;height:17px;font-family:Helvetica,Arial;background:#fff}
+.fomupin textarea:focus{box-shadow:0 0 5px 0 #b5dff1;-moz-box-shadow:0 0 5px 0 #b5dff1;-webkit-box-shadow:0 0 5px 0 #b5dff1;border:1px solid #38b2e5}
+.fomupin a{font-size:15px;color:#888;background:none #e6e6e6;float:right;padding:0 7px;border-radius:4px;margin:4px 0}
+.fomupin a:hover{text-decoration:none;opacity:.7}
+.onlsu{clear:both;overflow:hidden}
+.onlsu a{display:block;float:left;margin:0 3px 3px 0}
+.onlsu a:nth-child(7n){margin:0 0 3px}
+.onlsu img{width:33px;height:33px}
+.activo a .nusho{background:#000;padding:2px 5px 1px;border-radius:3px;border-bottom:1px solid #fff;margin-left:5px}
+.sigoo{overflow:hidden}
+.sigoo a{display:block;padding:3px 6px;border-bottom:1px #EEE dotted}
+.sigoo span{float:right}
+.nusho{background:#838588;padding:2px 5px 1px;border-radius:3px;border-bottom:1px solid #fff;margin-left:5px;color:#fff;text-shadow:0 1px 1px rgba(0,0,0,0.40);font-weight:400}
+input.busk{background:#FFF!important;display:block;padding:6px 10px;width: 100%;border-right:solid 1px #c6c6c6;border-left:solid 1px #c6c6c6;border-top:solid 1px #cecece;border-bottom:solid 1px #a4a4a4;box-shadow:0 1px 1px #D3D3D3;-mox-box-shadow:0 1px 1px #D3D3D3;-webkit-box-shadow:0 1px 1px #D3D3D3;font-size:13px;font-family:Helvetica,Arial;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;float:left;}
+input.busk:focus{box-shadow:0 0 5px 0 #B5DFF1;-moz-box-shadow:0 0 5px 0 #B5DFF1;-webkit-box-shadow:0 0 5px 0 #B5DFF1;border:1px solid #38B2E5}
+.busmipi{margin:2px 0}
+.busmipi form{display: flex;clear:both;margin:0;}
+.busmipi .boto{padding:6px 10px;margin-left:5px;float:right;}
+.boxinvi{margin:10px 18px;padding:10px;width:auto;background:url(../i/register-bg.gif);overflow:hidden}
+.bgboxp{overflow:hidden;background:#fff;padding:10px}
+.boxinvi img{padding-left:20px;margin-left:30px;width:124px;height:124px;border-left:1px solid #e5e5e5;float:right}
+#visita{float:left;width:418px}
+#visita p{margin:0 0 10px;padding:0;color:#999}
+#visita a.boto{margin-right:20px}
+#visita a{text-decoration:underline}
+#visita h3{margin:0 0 10px;padding:0;font-size:24px;line-height:20px;color:#ff187a;font-weight:400}

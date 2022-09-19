@@ -1,0 +1,96 @@
+.SattaDesc{display: none;clear:both;}
+.SattaDesc .wrap{clear:both}
+.attaSFrameS{width: 100%;display: block;float:right;}
+#barcaB{display: none;border: solid #ccc;padding:13px;width: auto;border-width: 0 1px 1px 1px;}
+#BattaContent div{display:none;clear: both;}
+#BattaContent input.itext{background:#FFF;border:1px solid #ccc;float:left;margin-right:8px;padding:8px;height:30px;width: 100%;}
+#BattaContent .adj{background:#eee;padding:6px 10px!important;border-radius:3px;font-weight:700;float:left;text-decoration:none}
+#BattaContent .adj:hover{background:#c8e8ff}
+#BattaContent .adj:active{background:#adcee5}
+textarea#welle,textarea#SattaDesc{width: 100%;height: 40px;min-height:40px;background: #f4f4f4;border: 0;font-family:"Lato","Helvetica Neue","Helvetica","Arial","Lucida Grande",sans-serif;border-radius:3px;font-size: 18px;line-height: 33px;padding: 3px 10px;font-weight: 400;}
+textarea#welle:focus,textarea#SattaDesc:focus{border: 1px solid #cccccc;}
+#fotoSFrameS,#enlaceSFrameS,#videoSFrameS{padding:10px 8px;border:1px solid #CCC;border-radius:0 0 3px 3px;position:relative;overflow:hidden;}
+#fotoSFrameS span,#enlaceSFrameS span,#videoSFrameS span{float:left;font-weight:700;margin:6px 7px 6px 0;}
+#fotoSFrameS img{background:#FFF;max-width:586px;border:1px solid #CCC;padding:3px}
+#enlaceSFrameS a.big{font-size:16px;font-weight:700}
+#enlaceSFrameS span.desc{color:#999;font-size:13px;text-align:center;float:none;font-weight:400}
+#videoSFrameS div{display:block!important;width:594px}
+#videoSFrameS .thumb{float:left;margin-right:10px;max-height:130px;max-width:130px}
+#videoSFrameS .vDesc{color:#000;vertical-align:top;padding:0;float:left;width:454px;word-wrap:break-word;height:98px}
+#FajuFull{width: 100%;padding: 0;border-radius:0 0 3px 3px;border-top:0;position:relative;overflow:hidden;background-color:#F5F5F5;}
+#FajuFull a{font-size:14px;padding:10px 0 0!important;background:transparent!important}
+#FajuFull span{color:#777}
+#FajuFull center{background-color:#fff;/* border-radius:5px; */padding:10px;border:1px solid #ddd;}
+#FajuFull img{max-width: 100%;}
+#pprivami{position:absolute;background:#fff;border:1px solid #CCC;right: 85px;top: 23px;z-index:1;display:none;}
+#pprivami a{display:block;border-bottom:1px solid #CCC;padding:3px 6px!important;line-height:18px;font-size:11px;width:172px;background:#fff}
+#pprivami a:last-child{border-bottom:0}
+#pprivami a:hover{background:#eee;text-decoration:none}
+#pprivami a.marcado{color:#000}
+.fframeForm{position: relative;clear:both;padding: 12px 12px 12px;border-radius: 0 4px 4px 4px;background: #fff;box-shadow: 0px 3px 6px rgba(102,119,136,0.03), 0 1px 2px rgba(102,119,136,0.3);}
+.bbsho{float:right;width: 100%;margin:8px 0 0;position:relative;color: #585858;}
+.bbsho span{float: left;margin-right:8px;}
+.bbsho span.azul{float:right;margin-right:0}
+.bbsho span.gris{padding: 7px 15px 5px;font-size: 1.4em;}
+.ii{opacity:.3;background:url(../i/20shout.png) no-repeat;display:inline-block;margin:0!important;width:18px!important;height:18px!important}
+.ii.image{background-position:0 0}
+.boto:hover .image{background-position:0 -20px;opacity:1}
+.ii.video{background-position:-20px 0}
+.boto:hover .video{background-position:-20px -20px;opacity:1}
+.ii.linke{background-position:-40px 0}
+.boto:hover .linke{opacity:1;background-position:-40px -20px}
+.i.xcerrarr:hover{opacity:.4}
+.i.xcerrarr{margin:0!important;cursor:pointer;opacity:.1;background-position: -218px -104px;right:0;position:absolute;top:0;}
+textarea#SattaDesc{border-radius:3px 3px 0 0!important;color:#a1a1a1}
+#loadingProgressGG{width: 100%;height:25px;overflow:hidden;background-color:#83C24B;border-radius:4px;}
+.loadingProgressGG{background-color:#f3f3f3;margin-top:0;margin-left:-600px;-moz-animation-name:bounce_loadingProgressG;-moz-animation-duration:1.3s;-moz-animation-iteration-count:infinite;-moz-animation-timing-function:linear;-webkit-animation-name:bounce_loadingProgressG;-webkit-animation-duration:1.3s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:linear;-ms-animation-name:bounce_loadingProgressG;-ms-animation-duration:1.3s;-ms-animation-iteration-count:infinite;-ms-animation-timing-function:linear;-o-animation-name:bounce_loadingProgressG;-o-animation-duration:1.3s;-o-animation-iteration-count:infinite;-o-animation-timing-function:linear;animation-name:bounce_loadingProgressG;animation-duration:1.3s;animation-iteration-count:infinite;animation-timing-function:linear;width:600px;height:25px}
+@-moz-keyframes bounce_loadingProgressG {
+0%{margin-left:-600px}
+100%{margin-left:600px}
+}
+@-webkit-keyframes bounce_loadingProgressG {
+0%{margin-left:-600px}
+100%{margin-left:600px}
+}
+@-ms-keyframes bounce_loadingProgressG {
+0%{margin-left:-600px}
+100%{margin-left:600px}
+}
+@-o-keyframes bounce_loadingProgressG {
+0%{margin-left:-600px}
+100%{margin-left:600px}
+}
+@keyframes bounce_loadingProgressG {
+0%{margin-left:-600px}
+100%{margin-left:600px}
+}
+#barca{display:none;border:1px solid #ccc;padding:13px;width:588px}
+.yafue{display:none;text-align:center;font-weight:700;padding:10px;color:#006595}
+#BattaContent div.vContent{width: auto;}
+#BattaContent div.vDesc{width: 100%;padding-left:0;height:110px;}
+#FajuFull .vContent img{width: 100%;padding:0;border:0;}
+.complord {
+    margin-bottom: 10px;
+}
+.boton.c:hover {
+    color: #1973b3;
+}
+
+.boton.y:hover {
+    color: #da0606;
+}
+
+.boton.l:hover {
+    color: #56c0f3;
+}
+
+span#ffulls {
+    margin-top: 8px;
+    float: right;
+    cursor: pointer;
+    font-size: 1.1em;
+}
+
+span#ffulls:hover {
+    color: #888787;
+}

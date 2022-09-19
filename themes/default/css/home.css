@@ -1,0 +1,47 @@
+#filshout .Story_Pic img{padding:2px;box-shadow:0 0;width:35px;height:35px;margin:0;}
+#boxship{float:right;width: 100%;}
+#filshout .Story_Pic{margin-right:8px;}
+#filshout .Story_Head{padding: 10 !important;width: auto;box-shadow: 0 6px 8px rgba(102,119,136,0.03), 0 1px 2px rgba(102,119,136,0.3);border-radius: 5px 5px 0px 0px;background: #fff;}
+#filshout .Story_Foot{width: auto!important;display: flex;}
+#filshout .shoutbody{font-size:12px!important;}
+#filshout .tlink h2 a{font-weight:bold;font-size:12px;}
+#filshout .folink a{font-size:11px;}
+#filshout .tfoto img{max-width: 100%;}
+.Story_Content {
+    width: 100%;
+}
+#versho{font-weight:normal;float:right;font-size:11px;color:#999;}
+#filshout .adres{width:210px;}
+.nonames{color:#545454;margin-bottom:5px;}
+.nonames span{color:#b0b0b0;}
+.nonames a{color:#2594ef;font-weight:normal;margin:0 2px;}
+.nonames a:hover{color:#000;text-decoration:none;}
+#filshout .adres textarea{width:198px;margin:0;float:none;}
+#filshout .adres span{float:none;margin-top:10px;display:block;text-align:center;}
+#filshout .espera{width:230px;}
+#filshout .Story{overflow:hidden;color:#545454;font-size:12px;padding: 0;margin-bottom: 10px;}
+#noticias{background:#fff;}
+#newtexto{margin:10px;display:block;text-align:center;color:#106C16;background:#89EC7C;padding:10px;border-radius:2px;}
+#noticias div{display:none;}
+#noticias div:nth-child(1){display:block;}
+#fullimg{max-width:600px;}
+#youtube{overflow:hidden;display:block;position:relative;}
+#youtube h1{background:url(../i/bgnegro.png) 0 -50px;margin:0;position:absolute;color:#fff;font-size:16px;padding:10px 15px;font-weight:normal;width:270px;}
+#youtube img{width: 100%;height: auto;}
+#youtube:hover span{opacity:.8;}
+#youtube span{background:url(../i/play.png) center no-repeat;display:block;width: 82px;height: 77px;position:absolute;top:80px;left:118px;}
+.clerela{height:50px;}
+a.cates img{width:70px;height:50px;}
+.ditip{width:174px;}
+.quiendi{clear:both;margin-bottom:3px!important;overflow:hidden!important;}
+.vrma{text-align: center;color:#2594ef;font-weight:normal;margin-top:7px;margin-left:5px;padding: 6px 8px 0px 8px !important;}
+.vrma:hover{color:#000;text-decoration:none;}
+.ador{margin-top:7px;font-size:12px;padding:0 0.2em;cursor:pointer;color:#2594ef;float:left;}
+.gis{font-size:12px;padding:0 0.2em;cursor:pointer;float:left;margin-top:5px;}
+.acnu.azu{color:#2594ef;}
+.acnu.gri{color:#A4A4A4;}
+.gis:hover .azu{color:#000;}
+.gis:hover span.mazul{color:#000;}
+.mazul{color:#2594ef;float:left;display:inline-block;font-size:12px;padding:0 0.2em;cursor:pointer;margin-top:5px;}
+.mgris{color:#A4A4A4;float:left;display:inline-block;font-size:12px;padding:0 0.2em;cursor:pointer;margin-top:5px;}
+

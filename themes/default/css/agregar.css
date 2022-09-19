@@ -1,0 +1,61 @@
+.prto{background:#fff6ca;padding:8px;border-top:5px solid #ff7a00;overflow:hidden;clear:both;color:#737317}
+.consejo{font-size:14px;margin:0;color:#3f3f0d}
+.seps{margin:10px 0}
+li.yex{background:url(../i/tick-button.png) no-repeat center left!important}
+.blopro{margin-bottom:10px}
+.blopro strong{color:#3f3f0d}
+.blopro li{background:url(../i/cross-button.png) no-repeat center left;padding:5px 0 5px 20px;margin:0}
+.imotin{margin:20px 0;overflow:hidden}
+#emoticons a{display:block;float:left;margin:0 5px 5px 0}
+.pinta{display:block;padding:0;margin:0 0 15px!important;height:2px;width:100%;border:0!important;background:url(../i/hrform.gif) repeat-x top left transparent;clear:both;overflow:hidden}
+.form-add-post form{clear:both;overflow:hidden;margin:0}
+.form-add-post .izquierda{background: #f6f6f6;padding: 15px;width: 680px;word-wrap: break-word;min-height: 950px;}
+.form-add-post .derecha{float:right;width: 260px;padding:0 15px}
+#maincontainer #form_div{background: url(../i/linecolumna.gif) 30px 0 repeat-y!important;overflow:hidden}
+.boximg{background:#F7F7F7;border:1px solid #E2E2E2;padding:8px;text-align:center;color:#B9B9B9;margin:10px}
+#nops{text-align:justify;margin:5px;background-color:#fff;padding:10px;border:1px solid #E2E2E2;color:#777;font-weight:700}
+#opciopo{clear:both;overflow:hidden;background:#EEE;border-top:5px solid #2d7bcc;padding:10px}
+.disabled{opacity:.5}
+.end-form span{float:right;margin-left:10px}
+#borrador-guardado{clear:both;font-size: 11px;text-align: center;    line-height: 25px;}
+.tagsinput{background:#FFF;overflow-y:auto;border: 1px solid #ccc;border-radius:4px 4px 0 0;box-shadow: 0 0;cursor:text;min-height:100px;padding:6px 0 0 6px}
+.tagsinput:hover{box-shadow:0 0 5px 0 #B5DFF1;-moz-box-shadow:0 0 5px 0 #B5DFF1;-webkit-box-shadow:0 0 5px 0 #B5DFF1;border:1px solid #38B2E5;color:#000}
+.tagsinput span.tag{border:1px solid #4CAAFF;display:block;float:left;padding:0 10px 0 5px;text-decoration:none;background:#C8E9F0;color:#006595;font-family:helvetica;font-size:13px;margin:0 6px 6px 0;white-space:nowrap;max-width:90px;text-overflow:ellipsis;overflow:hidden;position:relative}
+.tagsinput span.tag a{font-weight:700;color:#006595;text-decoration:none;position:absolute;top:0;right:5px;line-height:18px}
+.tagsinput input{font-family:helvetica;font-size:13px;outline:0;border:0;margin:0 6px 6px 0;padding:2px 0 3px;background:#fff;white-space:nowrap;max-width:90px;text-overflow:ellipsis;overflow:hidden}
+.tagsinput div{display:block;float:left}
+.tags_clear{clear:both;width:100%;height:0}
+.not_valid{color:#FF0012!important;font-weight:700}
+div.tagsinput.error{border:1px solid!important;border-color:#FD4A4A!important;-webkit-box-shadow:0 1px 6px #F99!important;-moz-box-shadow:0 1px 6px #F99!important;box-shadow:0 1px 6px #F99!important}
+#tagsfox{float:right;width:260px}
+#tagsfox p{border-radius: 0 0 4px 4px;margin: 0;font-size:11px;font-family: "Lato","Helvetica Neue","Helvetica","Arial","Lucida Grande",sans-serif;background: #FDFDE9;border: solid #ccc;border-width: 0 1px 1px 1px;padding: 10px;}
+#tagsfox #tagnew{width:0;display:none}
+select.agregar{width:325px;padding:5px;border:solid 1px #C6C6C6;border-bottom-color:#A4A4A4;height:165px}
+.razonpor{margin:5px 0 0;color:red}
+#previs{float:right;margin:15px 0 0}
+.incube{width:325px;padding:7px 5px;border:solid 1px #ccc;border-radius:4px;font-size:14px}
+#elrde{float:right;width:325px}
+#BoxPortada{float:left;width: 258px;border: 1px solid #ccc;border-radius: 4px 4px 0 0;}
+#BoxPortada .avatar-big-cont{width:230px;margin:10px auto;height:170px;border:solid 4px #fff;outline: dashed 1px #CCC;background: url(../i/cam.png) no-repeat center 0;border-radius: 4px;}
+#BoxPortada img.portada-big{z-index:2;position:relative}
+#BoxPortada .avatar-loading{width:230px;height:170px;background:#fff url(../i/spinner.gif) center no-repeat}
+#BoxPortada .avatar-big-cont p{text-align:center;color:#999;margin:0;position:absolute;top:120px;width:230px;z-index:1}
+.menu-subir{background:#fff;height:150px;display:none;padding-top:20px}
+#ImgPo:hover{opacity:.6;cursor:pointer}
+.imagen-pc,.imagen-url{background:#2594EC;color:#fff;font-weight:700;text-align:center;padding:8px 0;border-radius:3px;cursor:pointer;width:200px;margin:0 auto 10px}
+.imagen-pc:hover,.imagen-url:hover{background:#46acff}
+#BoxPortada .avatar-big-cont:hover{background:#eee url(../i/camn.png) no-repeat center 0;cursor:pointer}
+#file-avatar{border:0!important;box-shadow:0 0!important;border-radius:0!important}
+.oblig{background-color:#eef7fb;width:665px;height:22px;text-align:right;border:solid 1px #e1e1e1;border-radius:3px 3px 3px 3px;color:#262626;line-height:20px;padding:0 6px;font-family:"Lato","Helvetica Neue","Helvetica","Arial","Lucida Grande",sans-serif}
+.oblig span{background:#D40000;border:15px;width:7px;height:7px;display:inline-block;margin:0 2px}
+.form-add-post label{display:block;padding:15px 0 5px 0;line-height:1;color:#333;text-shadow:1px 1px 0 #fff;font-weight:700;font-size:14px;font-family:"Lato","Helvetica Neue","Helvetica","Arial","Lucida Grande",sans-serif}
+.form-add-post label span{background:#D40000;border:15px;width:7px;height:7px;display:block;margin:4px 5px 4px 0;float:left}
+.form-add-post input[name=titulo]{margin-bottom:15px;background:#FFF!important;display:block;padding:8px;width:680px;border:1px solid #ccc;box-shadow:0 0;-mox-box-shadow:0 0;-webkit-box-shadow:0 0;font-size:30px;font-family:Arial;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;height:50px}
+.form-add-post textarea{background:#FFF!important;display:block;padding:8px;box-shadow:0 0;-mox-box-shadow:0 0;-webkit-box-shadow:0 0;font-family:Arial;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;border-color:#ccc;font-size:1.2em;white-space:pre-wrap;word-wrap:break-word}
+.errormsg{position:absolute;bottom:-20px;left:0;color:red;background:none;font-weight:400;font-size:11px;top:inherit;right:inherit;font-family:Verdana,sans-serif}
+.form-add-post .derecha .incube {width: 260px}
+p.ilepo {border-radius: 0 0 4px 4px;margin: 0;font-size:11px;font-family: "Lato","Helvetica Neue","Helvetica","Arial","Lucida Grande",sans-serif;background: #FDFDE9;border: solid #ccc;border-width: 0 1px 1px 1px;padding: 10px;overflow: hidden;}
+p.ilepo b{font-size: 11px;margin: 0;display:inline-block;}
+.option{display:block;overflow:hidden;clear:both;}
+.end-form{clear:both;margin-top:15px;}
+.ijus{overflow:hidden;border:1px solid #ccc;padding:14px 14px 0 14px;margin-bottom:15px;border-radius:4px}

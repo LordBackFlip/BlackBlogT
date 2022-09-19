@@ -1,0 +1,31 @@
+.fost a{overflow:hidden;display:block;margin:0;color:#fff;text-shadow:0 -1px 0 #094D1A;padding:9px 10px;text-align:center;background:url(../i/ver.png);border-radius:0 0 4px 4px;font-weight:700}
+.fulsx{margin:10px 0 0 10px;overflow:hidden}
+.fulsx .titular{margin-right:10px;margin-bottom:10px}
+.tifil{clear:both;overflow:hidden;margin-bottom:20px}
+.tifil h3{font-style:italic;font-family:Georgia;color:#F60;margin:0 0 5px;font-size:14px;font-weight:400}
+.tifil label{padding:10px 0;border-bottom:1px #ddd dotted;margin:0;display:block;line-height:1}
+.tifil input{float:left;margin-right:5px}
+.tifil select{border:1px solid #ccc;width:250px;padding:3px}
+.clee{margin:0}
+.clee input.boto{display:block;width:250px;margin-top:15px;padding:7px 0}
+#boxse{height:156px;float:left;width:230px;margin:0 10px 10px 0}
+.xoti{overflow:hidden;background:#036089 url(../i/ribbon.jpg) no-repeat -30px -15px;border-bottom:1px solid #062939;border-top:1px solid #095275;border-left:1px solid #08415C;border-right:1px solid #08415C}
+.xoti h2{font-size:13px;color:#fff;text-shadow:0 -1px 0 #000;margin:0;float:left;padding:6px 0 6px 10px}
+.estv{float:right;background:url(../i/bgnavitem.gif) no-repeat top left;height:31px}
+.mite{border:solid #ddd;border-width:0 1px 1px;overflow:hidden;padding:10px;clear:both}
+.kilo{float:left}
+.kilo p{margin:0;clear:both;overflow:hidden}
+.kilo img{float:left;margin-right:10px}
+.teava{float:right}
+.teava img{border:1px solid #ddd;padding:2px;height:50px;width:50px}
+.fotus{border:solid #ddd;border-width:0 1px 1px;overflow:hidden;clear:both;background:#F5F5F5}
+.fotus p{padding-bottom:5px;margin:0;float:left;background:url(../i/borde.png) center right no-repeat;width:69px;text-align:center}
+.fotus span{color:#000;font-size:14px;clear:both;display:block;line-height:1;padding:5px 0 2px;font-weight:700}
+p.espp{width:90px}
+p.esppa{background:none}
+span.esjer{display:block;width:12px;height:12px;border-radius:2px;float:right;margin:9px 9px 9px 12px}
+span.esjer.s-offline{background:#fff;opacity:.5}
+span.esjer.s-online{background:#61DF26}
+span.esjer.s-inactive{background:#F1E22F}
+.pagin{padding:10px;margin:0 10px 10px;overflow:hidden;background:#f5f5f5;border:1px solid #ddd;border-radius:3px}
+.nofi a{opacity:.5}

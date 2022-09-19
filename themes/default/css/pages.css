@@ -1,0 +1,17 @@
+#bgproto{background:url(../i/bg2cols.gif) repeat-y;overflow:hidden}
+#protoi{width:660px;padding:10px;float:left}
+#protod{float:right;width:320px}
+div.ct-data h2{font-size:28px;color:#333;margin:0 0 5px;padding:0;font-weight:400}
+div.ct-data p{margin-bottom:20px;padding:0;font-size:14px;line-height:25px;color:#444}
+div.ct-data ul.anchor-list{margin-bottom:20px}
+div.ct-data ul{margin:0 0 30px;padding:0 0 0 51px;font-size:14px;color:#444;list-style-type:disc}
+div.ct-data ul li{line-height:25px;list-style-type:disc!important}
+div.ct-data ul li a{font-weight:400}
+div.ct-data h3,div.ct-data a.subtitle{margin:10px 0;padding-bottom:5px;display:block;border-bottom:1px dotted #ccc;font-size:20px;color:#000;font-weight:400}
+div.ct-data .blockquote h3{font-size:16px}
+div.ct-data .blockquote{margin:0 0 0 40px !important}
+#full-col{width:660px;padding:10px}
+div.ct-data{padding:0 10px;text-shadow:0 1px 0 #fff;font-family:Arial,Helvetica,sans-serif}
+.list a{border-bottom:1px dotted #ccc;display:block;padding:6px 0 6px 12px}
+.list a.active,.list a:hover{background:#f1f1f1;text-decoration:none!important}
+#protocolo{background:#eee;padding:10px}
